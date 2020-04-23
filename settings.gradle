@@ -1,0 +1,3 @@
+rootProject.name='ProvisioningLib'
+include ':app'
+include ':provlibrary'
